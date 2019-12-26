@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+
 }
 
 .App-logo {
@@ -35,4 +36,39 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+
+ .jumbotron {
+  text-align: center;
+}
+
+
+
+
+
+.container{
+
+  padding: 20px;
+  
+}
+
+.card{
+
+  text-align: center;
+  margin-bottom: 10px;
+  width: 250px;
+  padding: 10px;
+  margin:5px;
+  float: right;
+  height:400px;
+
+  
+}
+
+.card-header{
+
+  color:red;
+  background-color:green;
 }
